@@ -1,1 +1,3 @@
 conferma
+
+commit di Pasquale
